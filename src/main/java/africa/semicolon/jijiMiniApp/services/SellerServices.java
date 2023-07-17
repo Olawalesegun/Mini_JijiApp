@@ -1,2 +1,4 @@
-package africa.semicolon.jijiMiniApp.services;public interface SellerServices {
+package africa.semicolon.jijiMiniApp.services;
+
+public interface SellerServices {
 }
