@@ -5,6 +5,6 @@ import africa.semicolon.jijiMiniApp.dtos.responses.PostProductResponse;
 
 public class SellerServicesImpl implements SellerServices{
     PostProductResponse postProduct(PostProductRequest postProductRequest){
-
+        return null;
     }
 }
